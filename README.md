@@ -43,5 +43,9 @@ jupyter notebook
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot0](https://github.com/kaushal9696/Research-Paper-Title-Generator/blob/main/Text2Title0.png)
+
+![Screenshot1](https://github.com/kaushal9696/Research-Paper-Title-Generator/blob/main/Text2Title1.png)
+
+![Screenshot2](https://github.com/kaushal9696/Research-Paper-Title-Generator/blob/main/Text2Title2.png)
 
